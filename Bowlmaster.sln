@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bowlmaster.CSharp.Plugins", "Bowlmaster.CSharp.Plugins.csproj", "{40D1D1C0-B0E5-BA4B-769D-3FE94ABF7A39}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bowlmaster.CSharp", "Bowlmaster.CSharp.csproj", "{F1905961-63BD-977B-0348-A46982F9ED74}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bowlmaster.CSharp.Editor", "Bowlmaster.CSharp.Editor.csproj", "{D808D495-423C-91F8-43D4-FF844ECB0CA0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{40D1D1C0-B0E5-BA4B-769D-3FE94ABF7A39}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{40D1D1C0-B0E5-BA4B-769D-3FE94ABF7A39}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{40D1D1C0-B0E5-BA4B-769D-3FE94ABF7A39}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{40D1D1C0-B0E5-BA4B-769D-3FE94ABF7A39}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F1905961-63BD-977B-0348-A46982F9ED74}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F1905961-63BD-977B-0348-A46982F9ED74}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F1905961-63BD-977B-0348-A46982F9ED74}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F1905961-63BD-977B-0348-A46982F9ED74}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D808D495-423C-91F8-43D4-FF844ECB0CA0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D808D495-423C-91F8-43D4-FF844ECB0CA0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D808D495-423C-91F8-43D4-FF844ECB0CA0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D808D495-423C-91F8-43D4-FF844ECB0CA0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
